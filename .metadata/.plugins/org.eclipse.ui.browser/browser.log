@@ -1,0 +1,21 @@
+
+May 30, 2023 15:08:20.173 NEW SESSION
+May 30, 2023 15:08:20.173 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+May 30, 2023 15:21:49.981 [2476:5128:0530/152149.979:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+May 30, 2023 15:21:49.982 ERROR: Couldn't read tbsCertificate as SEQUENCE
+May 30, 2023 15:21:49.982 ERROR: Failed parsing Certificate
+May 30, 2023 15:21:49.983 
+May 30, 2023 15:21:56.513 [2476:5128:0530/152156.512:ERROR:cert_verify_proc_builtin.cc(679)] CertVerifyProcBuiltin for sync.hgrtb.com failed:
+May 30, 2023 15:21:56.513 ----- Certificate i=0 (CN=sync.hgrtb.com) -----
+May 30, 2023 15:21:56.514 ERROR: Time is after notAfter
+May 30, 2023 15:21:56.514 
+May 30, 2023 15:21:56.515 
+May 30, 2023 18:21:09.295 [2476:7312:0530/182109.277:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 30, 2023 20:02:53.681 [2476:7312:0530/200253.678:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 30, 2023 20:03:39.59 [2476:7660:0530/200339.058:ERROR:device_event_log_impl.cc(222)] [20:03:39.057] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+May 30, 2023 20:03:39.143 [2476:7660:0530/200339.143:ERROR:device_event_log_impl.cc(222)] [20:03:39.143] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+May 30, 2023 20:03:39.179 [2476:7660:0530/200339.178:ERROR:device_event_log_impl.cc(222)] [20:03:39.177] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+May 30, 2023 20:04:45.612 [2476:7312:0530/200445.609:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Jun 06, 2023 20:58:36.567 NEW SESSION
+Jun 06, 2023 20:58:36.567 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
